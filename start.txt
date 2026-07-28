@@ -1,7 +1,0 @@
-Start
-Learning branching so I made some changes.
-Giving some commit messages from local branch.
-Giving some commit messages from remote branch.
-Changing something in local branch that means command prompt.
-Hello.
-Hi.
